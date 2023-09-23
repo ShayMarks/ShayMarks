@@ -1,3 +1,5 @@
+<h1 align="center">Shay Mrks !</h1>
+
 <h3 align="center">I'm a passionate software developer with a focus on front-end development. I love creating web applications and solving real-world problems with code. Here, you'll find some of my projects and contributions to the open-source community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaymrks&label=Profile%20views&color=0e75b6&style=flat" alt="shaymrks" /> </p>
