@@ -4,10 +4,10 @@
 
   <p> <img src="https://komarev.com/ghpvc/?username=shaymrks&label=Profile%20views&color=0e75b6&style=flat" alt="shaymrks" align="center" /> </p>
 </div>
-
-<h3 align="center">🌱 I’m currently learning Practical Software Engineering</h3>
-<h3 align="center">📫 How to reach me: <a href="mailto:nrexhd@gmail.com">nrexhd@gmail.com</a></h3>
-
+<div align="center">
+🌱 I’m currently learning Practical Software Engineering <br>
+📫 How to reach me: <a href="mailto:nrexhd@gmail.com">nrexhd@gmail.com</a>
+</div>
 <div align="center">
   <table style="background-color: transparent;">
     <tr>
@@ -41,3 +41,42 @@
     </tr>
   </table>
 </div>
+
+
+## My Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>Portfolio</h3>
+        <p>
+          All my projects are showcased right here in my portfolio.
+        </p>
+        <p>
+          <a>➡️ Coming Soon</a><br>
+        </p>
+      </td>
+      <td>
+        <h3>Gaming store</h3>
+        <p>
+          A dynamic gaming store showcasing my early front-end skills developed in my first year of studies.
+        </p>
+        <p>
+          <a href="https://github.com/ShayMrks/GamingStore" target="_blank">➡️ Link to Project 📋</a><br>
+        </p>
+      </td>
+      <td>
+        <h3>HayDay List Generator</h3>
+        <p>
+          a user-friendly web app that lets you create personalized product lists based on your game level and preferences. Easily calculate and track your in-game resources with this handy tool
+        </p>
+        <p>
+          <a href="https://github.com/ShayMrks/HayDayListGenerator" target="_blank">➡️ Link to Project 📋</a><br>
+          <a href="https://shaymrks.github.io/HayDayListGenerator/" target="_blank">➡️ View Website 🌐</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
