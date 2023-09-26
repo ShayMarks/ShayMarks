@@ -54,7 +54,8 @@
           All my projects are showcased right here in my portfolio.
         </p>
         <p>
-          <a>➡️ Coming Soon</a><br>
+          <a href="https://github.com/ShayMrks/My-Portfolio">➡️ Link to Project 📋</a><br>
+          <a href="https://shaymrks.github.io/My-Portfolio/" target="_blank">➡️ View Website 🌐</a>
         </p>
       </td>
       <td>
