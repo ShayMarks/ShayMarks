@@ -1,6 +1,6 @@
-<hr><hr>
+<hr>
 <p><img src="ShayMrks.png" alt="shaymrks" align="center" /></p>
-<hr><hr>
+<hr>
 <div align="center">
   <h1>I'm Shay Mrks!</h1>
   <h4>I'm a passionate software developer with a focus on front-end development. I love creating web applications and solving real-world problems with code. Here, you'll find some of my projects and contributions to the open-source community.</h4>
