@@ -2,10 +2,10 @@
 <p><img src="ShayMarks.png" alt="shaymrks" align="center" /></p>
 <hr>
 <div align="center">
-  <h1>I'm Shay Mrks!</h1>
+  <h1>I'm Shay Marks!</h1>
   <h4>I'm a passionate software developer with a focus on front-end development. I love creating web applications and solving real-world problems with code. Here, you'll find some of my projects and contributions to the open-source community.</h4>
 
-  <p> <img src="https://komarev.com/ghpvc/?username=shaymrks&label=Profile%20views&color=0e75b6&style=flat" alt="shaymrks" align="center" /> </p>
+  <p> <img src="https://komarev.com/ghpvc/?username=shaymarks&label=Profile%20views&color=0e75b6&style=flat" alt="shaymarks" align="center" /> </p>
 </div>
 <div align="center">
 🌱 I’m currently learning Practical Software Engineering <br>
@@ -17,9 +17,9 @@
       <td style="background-color: transparent;">
         <h3>📬 Connect with me:</h3>
         <p>
-          <a href="https://www.linkedin.com/in/shay-mrks-920546260/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shay mrks" width="30" height="40" /> Shay Mrks </a><br>
-          <a href="https://www.facebook.com/profile.php?id=100000534363504" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shay mrks" width="30" height="40" /> Shay Mrks </a><br>
-          <a href="https://instagram.com/shaymrks" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaymrks" width="30" height="40" /> shaymrks</a>
+          <a href="https://www.linkedin.com/in/shay-marks-920546260/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shay marks" width="30" height="40" />Shay Marks </a><br>
+          <a href="https://www.facebook.com/profile.php?id=100000534363504" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shay marks" width="30" height="40" />Shay Marks </a><br>
+          <a href="https://instagram.com/shaymarks2" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaymrks" width="30" height="40" />shaymarks2 </a>
         </p>
       </td>
       <td style="background-color: transparent;">
