@@ -57,8 +57,8 @@
           All my projects are showcased right here in my portfolio.
         </p>
         <p>
-          <a href="https://github.com/ShayMrks/My-Portfolio">➡️ Link to Project 📋</a><br>
-          <a href="https://shaymrks.github.io/My-Portfolio/" target="_blank">➡️ View Website 🌐</a>
+          <a href="https://github.com/ShayMarks/My-Portfolio">➡️ Link to Project 📋</a><br>
+          <a href="https://shaymarks.github.io/My-Portfolio/" target="_blank">➡️ View Website 🌐</a>
         </p>
       </td>
       <td>
@@ -67,7 +67,7 @@
           A dynamic gaming store showcasing my early front-end skills developed in my first year of studies.
         </p>
         <p>
-          <a href="https://github.com/ShayMrks/GamingStore" target="_blank">➡️ Link to Project 📋</a><br>
+          <a href="https://github.com/ShayMarks/GamingStore" target="_blank">➡️ Link to Project 📋</a><br>
         </p>
       </td>
       <td>
@@ -76,8 +76,8 @@
           a user-friendly web app that lets you create personalized product lists based on your game level and preferences. Easily calculate and track your in-game resources with this handy tool
         </p>
         <p>
-          <a href="https://github.com/ShayMrks/HayDayListGenerator" target="_blank">➡️ Link to Project 📋</a><br>
-          <a href="https://shaymrks.github.io/HayDayListGenerator/" target="_blank">➡️ View Website 🌐</a>
+          <a href="https://github.com/ShayMarks/HayDayListGenerator" target="_blank">➡️ Link to Project 📋</a><br>
+          <a href="https://shaymarks.github.io/HayDayListGenerator/" target="_blank">➡️ View Website 🌐</a>
         </p>
       </td>
     </tr>
@@ -88,8 +88,8 @@
         Send WhatsApp messages without saving the number and generate future-sending links.
         </p>
         <p>
-          <a href="https://github.com/ShayMrks/WhatsApp-Message-Sender">➡️ Link to Project 📋</a><br>
-          <a href="https://shaymrks.github.io/WhatsApp-Message-Sender/" target="_blank">➡️ View Website 🌐</a>
+          <a href="https://github.com/ShayMarks/WhatsApp-Message-Sender">➡️ Link to Project 📋</a><br>
+          <a href="https://shaymarks.github.io/WhatsApp-Message-Sender/" target="_blank">➡️ View Website 🌐</a>
         </p>
       </td>
     </tr>
