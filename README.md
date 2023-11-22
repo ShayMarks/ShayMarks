@@ -1,5 +1,5 @@
 <hr>
-<p><img src="ShayMrks.png" alt="shaymrks" align="center" /></p>
+<p><img src="ShayMarks.png" alt="shaymrks" align="center" /></p>
 <hr>
 <div align="center">
   <h1>I'm Shay Mrks!</h1>
