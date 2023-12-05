@@ -39,7 +39,7 @@
     <tr>
       <td colspan="2" style="background-color: transparent;">
         <h3>📊 GitHub Stats:</h3>
-        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaymrks&show_icons=true&locale=en&layout=compact" alt="shaymrks" /></p>
+        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaymarks&show_icons=true&locale=en&layout=compact" alt="shaymrks" /></p>
       </td>
     </tr>
   </table>
