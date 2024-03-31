@@ -62,12 +62,12 @@
         </p>
       </td>
       <td>
-        <h3>Gaming store</h3>
+        <h3>Benefits Club</h3>
         <p>
-          A dynamic gaming store showcasing my early front-end skills developed in my first year of studies.
+          site that offers various products to registered users.
         </p>
         <p>
-          <a href="https://github.com/ShayMarks/GamingStore" target="_blank">➡️ Link to Project 📋</a><br>
+          <a href="https://github.com/ShayMarks/Shay-Benefits-Club" target="_blank">➡️ Link to Project 📋</a><br>
         </p>
       </td>
       <td>
