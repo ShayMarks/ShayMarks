@@ -93,6 +93,16 @@
     </tr>
         <tr>
       <td>
+        <h3>My AI Portfolio</h3>
+        <p>
+          I will present works I made using artificial intelligence and explanations of how I did it, from concept to creation.
+        </p>
+        <p>
+          <a href="https://github.com/ShayMarks/My-AI-Portfolio">➡️ Link to Project 📋</a><br>
+          <a href="https://shaymarks.github.io/My-AI-Portfolio/" target="_blank">➡️ View Website 🌐</a>
+        </p>
+      </td>
+      <td>
         <h3>WhatsApp-Message-Sender</h3>
         <p>
         Send WhatsApp messages without saving the number and generate future-sending links.
