@@ -26,7 +26,7 @@
         <h3>🚀 Languages and Tools:</h3>
         <p>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original.svg" alt="HTML5" width="40" height="40" color="orange" />
+          <img src="https://lh5.googleusercontent.com/proxy/d4SUCDLAjQZc8-OhF0tKJTSSVK4bAk6-oea7LRkygjC89ERPAR8UUFWtq_Y60V64_AFDbu4gZmiu7oshXg6uHdxFBIsztxlf79iPpTx_aVQzeQjM" alt="HTML5" width="40" height="40" color="orange" />
           <br>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="CSS3" width="40" height="40"/>
@@ -43,6 +43,7 @@
           <br>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
           <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
+          <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" alt="C#" width="40" height="40" />
           </p>
       </td>
     </tr>
