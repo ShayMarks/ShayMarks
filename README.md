@@ -51,8 +51,8 @@
     <tr>
       <td colspan="2" style="background-color: transparent;">
         <h3>📊 GitHub Stats:</h3>
-        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaymarks&show_icons=true&locale=en&layout=compact" alt="shaymrks" /></p>
-      </td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayMarks&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
     </tr>
   </table>
 </div>
