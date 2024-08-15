@@ -24,18 +24,20 @@
         </p>
       </td>
       <td style="background-color: transparent;">
-        <h3>🚀 Languages and Tools:</h3>
+        <h3>🚀 Skills and Tools:</h3>
         <p>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40" />
           <img src="https://lh5.googleusercontent.com/proxy/d4SUCDLAjQZc8-OhF0tKJTSSVK4bAk6-oea7LRkygjC89ERPAR8UUFWtq_Y60V64_AFDbu4gZmiu7oshXg6uHdxFBIsztxlf79iPpTx_aVQzeQjM" alt="HTML5" width="40" height="40" color="orange" />
           <br>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="CSS3" width="40" height="40"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" alt="CSS3" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="CSS3" width="40" height="40"/>
           <br>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"  alt="HTML5" width="40" height="40" /> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+          <img src="https://www.maxlinkitsolutions.com/wp-content/uploads/2021/08/microsoft-dotnet.png" alt="HTML5" width="40" height="40" color="orange" />
           <br>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="HTML5" width="40" height="40" />      
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="HTML5" width="40" height="40"  />
@@ -76,20 +78,19 @@
       <td>
         <h3>Benefits Club</h3>
         <p>
-          site that offers various products to registered users.
+          A website that offers various products to registered users, including a client side and an administrator side was built using node.js and mongoDB.
         </p>
         <p>
           <a href="https://github.com/ShayMarks/Shay-Benefits-Club" target="_blank">➡️ Link to Project 📋</a><br>
         </p>
       </td>
       <td>
-        <h3>HayDay List Generator</h3>
+        <h3>Hotel Management System</h3>
         <p>
-          a user-friendly web app that lets you create personalized product lists based on your game level and preferences. Easily calculate and track your in-game resources with this handy tool
+          A hotel management system designed to optimize hotel operations including room reservations, guest management, employee management and service management. Built using ASP.NET Web Forms, C# and SQL Server, this system incorporates several APIs for enhanced functionality.
         </p>
         <p>
-          <a href="https://github.com/ShayMarks/HayDayListGenerator" target="_blank">➡️ Link to Project 📋</a><br>
-          <a href="https://shaymarks.github.io/HayDayListGenerator/" target="_blank">➡️ View Website 🌐</a>
+          <a href="https://github.com/ShayMarks/hotel_Progect_ASP.NET" target="_blank">➡️ Link to Project 📋</a><br>
         </p>
       </td>
     </tr>
@@ -112,6 +113,16 @@
         <p>
           <a href="https://github.com/ShayMarks/WhatsApp-Message-Sender">➡️ Link to Project 📋</a><br>
           <a href="https://shaymarks.github.io/WhatsApp-Message-Sender/" target="_blank">➡️ View Website 🌐</a>
+        </p>
+      </td>
+        <td>
+        <h3>HayDay List Generator</h3>
+        <p>
+          a user-friendly web app that lets you create personalized product lists based on your game level and preferences. Easily calculate and track your in-game resources with this handy tool
+        </p>
+        <p>
+          <a href="https://github.com/ShayMarks/HayDayListGenerator" target="_blank">➡️ Link to Project 📋</a><br>
+          <a href="https://shaymarks.github.io/HayDayListGenerator/" target="_blank">➡️ View Website 🌐</a>
         </p>
       </td>
     </tr>
