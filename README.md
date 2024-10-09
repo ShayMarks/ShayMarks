@@ -9,7 +9,6 @@
 </div>
 <div align="center">
 🌱 I’m currently learning Practical Software Engineering <br>
-📫 How to reach me: <a href="mailto:nrexhd@gmail.com">nrexhd@gmail.com</a>
 </div>
 <div align="center">
   <table style="background-color: transparent;">
