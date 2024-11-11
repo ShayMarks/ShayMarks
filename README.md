@@ -70,8 +70,8 @@
           All my projects are showcased right here in my portfolio.
         </p>
         <p>
-          <a href="https://github.com/ShayMarks/My-Portfolio">➡️ Link to Project 📋</a><br>
-          <a href="https://shaymarks.github.io/My-Portfolio/" target="_blank">➡️ View Website 🌐</a>
+          <a href="https://github.com/ShayMarks/Portfolio">➡️ Link to Project 📋</a><br>
+          <a href="https://https://shaymarks.com/">➡️ View Website 🌐</a>
         </p>
       </td>
       <td>
