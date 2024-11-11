@@ -71,7 +71,7 @@
         </p>
         <p>
           <a href="https://github.com/ShayMarks/Portfolio">➡️ Link to Project 📋</a><br>
-          <a href="https://https://shaymarks.com/">➡️ View Website 🌐</a>
+          <a href="https://shaymarks.com">➡️ View Website 🌐</a>
         </p>
       </td>
       <td>
