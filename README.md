@@ -46,6 +46,8 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
           <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
           <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" alt="C#" width="40" height="40" />
+          <br>
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg" alt="HTML5" width="40" height="40"/>
           </p>
       </td>
     </tr>
