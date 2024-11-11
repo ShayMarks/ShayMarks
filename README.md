@@ -61,7 +61,7 @@
 </div>
 
 ## 
-  <h2 align="center">🌐 Visit my website : <a href="shaymarks.com">shaymarks.com</a> 🌐</h1>
+  <h2 align="center">🌐 Visit my website : <a href="https://shaymarks.com">shaymarks.com</a> 🌐</h1>
 ## My Projects
 
 <div align="center">
