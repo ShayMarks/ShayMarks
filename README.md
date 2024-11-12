@@ -17,8 +17,6 @@
         <h3>📬 Connect with me:</h3>
         <p>
           <a href="https://www.linkedin.com/in/shay-marks-920546260/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shay marks" width="40" height="40" />Shay Marks </a><br>
-          <a href="https://www.facebook.com/profile.php?id=100000534363504" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shay marks" width="40" height="40" />Shay Marks </a><br>
-          <a href="https://instagram.com/shaymarks2" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaymrks" width="40" height="40" />shaymarks2 </a><br>
                     <a href="mailto:nrexhd@gmail.com" target="_blank"><img src="https://static-00.iconduck.com/assets.00/mail-icon-2048x2048-525ey8hu.png" alt="shaymrks" width="40" height="40" />nrexhd@gmail.com </a>
         </p>
       </td>
