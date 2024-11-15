@@ -67,7 +67,8 @@
   <table>
     <tr>
       <td>
-        <h3>Portfolio</h3>
+        <h3><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20px" /> <br>
+        Portfolio</h3>
         <p>
           All my projects are showcased right here in my portfolio.
         </p>
@@ -77,7 +78,8 @@
         </p>
       </td>
       <td>
-        <h3>Benefits Club</h3>
+        <h3><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="20px"/><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="20px"/><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="20px"/><img src="https://img.shields.io/badge/Handlebars%20js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black"  height="20px"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20px" /> <br>
+        Benefits Club</h3>
         <p>
           A website that offers various products to registered users, including a client side and an administrator side was built using node.js and mongoDB.
         </p>
@@ -86,7 +88,8 @@
         </p>
       </td>
       <td>
-        <h3>Hotel Management System</h3>
+        <h3><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="20px"/><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="20px"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="20px"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20px" /><br>
+        Hotel Management System</h3>
         <p>
           A hotel management system designed to optimize hotel operations including room reservations, guest management, employee management and service management. Built using ASP.NET Web Forms, C# and SQL Server, this system incorporates several APIs for enhanced functionality.
         </p>
@@ -97,7 +100,8 @@
     </tr>
         <tr>
       <td>
-        <h3>My AI Portfolio</h3>
+        <h3><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20px" /><br>
+        My AI Portfolio</h3>
         <p>
           I will present works I made using artificial intelligence and explanations of how I did it, from concept to creation.
         </p>
@@ -107,7 +111,8 @@
         </p>
       </td>
       <td>
-        <h3>WhatsApp-Message-Sender</h3>
+        <h3><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20px" /><br>
+          WhatsApp-Message-Sender</h3>
         <p>
         Send WhatsApp messages without saving the number and generate future-sending links.
         </p>
@@ -117,13 +122,13 @@
         </p>
       </td>
         <td>
-        <h3>HayDay List Generator</h3>
+        <h3><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" height="20px"/><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="20px"/><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="20px"/><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="20px"><br>
+Falling Obstacles Game</h3>
         <p>
-          a user-friendly web app that lets you create personalized product lists based on your game level and preferences. Easily calculate and track your in-game resources with this handy tool
+          A 2D mobile game for Android, developed with Unity and C#. Players dodge obstacles and collect coins, with features like a high score tracker and skin shop.
         </p>
         <p>
           <a href="https://github.com/ShayMarks/HayDayListGenerator" target="_blank">➡️ Link to Project 📋</a><br>
-          <a href="https://shaymarks.github.io/HayDayListGenerator/" target="_blank">➡️ View Website 🌐</a>
         </p>
       </td>
     </tr>
