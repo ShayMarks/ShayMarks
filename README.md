@@ -60,13 +60,12 @@
 
 ## 
   <h2 align="center">🌐 Visit my website : <a href="https://shaymarks.com">shaymarks.com</a> 🌐</h1>
-
 ## My Projects
 
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td valign="top">
         <h3><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20px" /> <br>
         Portfolio</h3>
         <p>
@@ -77,7 +76,7 @@
           <a href="https://shaymarks.com">➡️ View Website 🌐</a>
         </p>
       </td>
-      <td>
+      <td valign="top">
         <h3><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="20px"/><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="20px"/><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="20px"/><img src="https://img.shields.io/badge/Handlebars%20js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black"  height="20px"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20px" /> <br>
         Benefits Club</h3>
         <p>
@@ -87,7 +86,7 @@
           <a href="https://github.com/ShayMarks/Shay-Benefits-Club" target="_blank">➡️ Link to Project 📋</a><br>
         </p>
       </td>
-      <td>
+      <td valign="top">
         <h3><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="20px"/><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="20px"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="20px"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20px" /><br>
         Hotel Management System</h3>
         <p>
@@ -98,8 +97,8 @@
         </p>
       </td>
     </tr>
-        <tr>
-      <td>
+    <tr>
+      <td valign="top">
         <h3><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20px" /><br>
         My AI Portfolio</h3>
         <p>
@@ -110,20 +109,20 @@
           <a href="https://shaymarks.github.io/My-AI-Portfolio/" target="_blank">➡️ View Website 🌐</a>
         </p>
       </td>
-      <td>
+      <td valign="top">
         <h3><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20px" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20px" /><br>
-          WhatsApp-Message-Sender</h3>
+        WhatsApp-Message-Sender</h3>
         <p>
-        Send WhatsApp messages without saving the number and generate future-sending links.
+          Send WhatsApp messages without saving the number and generate future-sending links.
         </p>
         <p>
           <a href="https://github.com/ShayMarks/WhatsApp-Message-Sender">➡️ Link to Project 📋</a><br>
           <a href="https://shaymarks.github.io/WhatsApp-Message-Sender/" target="_blank">➡️ View Website 🌐</a>
         </p>
       </td>
-        <td>
+      <td valign="top">
         <h3><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" height="20px"/><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="20px"/><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="20px"/><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="20px"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" height="20px"/><br>
-Falling Obstacles Game</h3>
+        Falling Obstacles Game</h3>
         <p>
           A 2D mobile game for Android, developed with Unity and C#. Players dodge obstacles and collect coins, with features like a high score tracker and skin shop.
         </p>
@@ -134,4 +133,3 @@ Falling Obstacles Game</h3>
     </tr>
   </table>
 </div>
-
